@@ -11,7 +11,7 @@
    * https://brilliant.org/
 3. Know concepts of Object-Oriented / Functional programming
 4. Have code examples on github
-5. Participate open-source projects on githun
-6. Take online courses, go to conferences and do onside trainigs
+5. Participate open-source projects on github
+6. Take online courses, go to conferences and do onside trainings
 7. Learn one new programming language per year (not in detail). Learn the main concepts, benefits and drawbacks
 8. Try cutting edge technologies for your projects
