@@ -25,9 +25,11 @@ Be a smart programmer ;-)...no reason to be dogmatic!
 * A very incomplete list of good conferences to check out (alongside their topic): GOTO; (General), Strange Loop (General), PyCon (Python), CPPCon (C++), DEF CON (Security), Fluent (Web dev), JAX (JavaCon) ...
 * MOOCs: https://www.coursera.org/ , https://www.educative.io/ ...
 
-## Learn one new programming language per year (not in detail). Learn the main concepts, benefits and drawbacks
+## Learn one new programming language per year
+Not in detail, but learn the main concepts, benefits and drawbacks of a language.
 
 ## Try cutting edge technologies for your projects
+Even in the context of client environment, you should try to use new technologies. You can always use a hybrid approach were you can switch between "old" and "new" technology.
 
 ## Know When to Use Libraries
 
