@@ -36,3 +36,7 @@
 * You’ll need a lot more than debugging using print statements. All widely-used languages and tech stacks have a variety of powerful tools. Learn to use them as they’ll make debugging a breeze and save you countless hours.
 * Understand the code base. Most tech stacks have some sort of code graph generation tools that will help you understand the structure of the code base. Enterprise IDEs generally have that functionality built in. You can also explore the code using tools such as ReSharper, grep or Sourcegraph.
 * Understand the product. You’ll be surprised how many developers don’t know how the software is supposed to work before they try to “fix” it. Just read the documentation. 
+
+## Learn Test-Driven-Development
+It will significantly improve your code. Also it makes fun to have always direct feedback that your your code works or not.
+See https://en.wikipedia.org/wiki/Test-driven_development
