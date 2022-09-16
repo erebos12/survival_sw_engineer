@@ -1,8 +1,20 @@
 # Reponsibilities of a Tech Lead
 
+## "Kümmerer" Mentality
+- sorry the german wird explains it best. Its someone
+Who takes car about evertyhing, not only Software Development.
+- Tech Lead takes car about frontend,  backend, UX, Client needs, Mood etc
+
+## When Not to code
+- Recall YAGNI
+- Less code is better
+- Does the code bring really value to the customer?
+(In case Not, drop it)
+- 
+
 ## How to build a feature?
 - discussing & understanding requirements
-- TBC
+- ask the 5 Whys to really understand the customers need
 
 ## How to architect a system ?
 - https://www.educative.io/path/scalability-system-design
