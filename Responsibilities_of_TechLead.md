@@ -1,9 +1,9 @@
 # Reponsibilities of a Tech Lead
 
 ## "Kümmerer" Mentality
-- sorry the german wird explains it best. Its someone
-Who takes car about evertyhing, not only Software Development.
-- Tech Lead takes car about frontend,  backend, UX, Client needs, Mood etc
+- sorry the german wird explains it best. It's someone
+who takes care about evertyhing, not only Software Development.
+- Tech Lead takes care about overall-architecture, frontend-design, backends, UX, Client needs, Mood etc.
 
 ## When Not to code
 - Recall YAGNI
