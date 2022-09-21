@@ -36,3 +36,6 @@ who takes care about evertyhing, not only Software Development.
 
 ## How to program ?
 - Coding Techniques - https://www.educative.io/courses/grokking-the-coding-interview
+- Sort & Search algorithms
+- Complexity knowledge - O(n) 
+- Techniques like Sliding Window, Two Pointers etc.
