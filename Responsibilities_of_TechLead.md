@@ -5,7 +5,7 @@
 - It's someone who takes care about evertyhing, not only Software Development.
 - Tech Lead takes care about overall-architecture, frontend-design, backends, UX, Client needs, Mood etc.
 
-## When Not to code
+## Knowing when Not to code
 - Recall YAGNI
 - Less code is better
 - Does the code bring really value to the customer?
