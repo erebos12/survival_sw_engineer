@@ -1,7 +1,7 @@
 # Reponsibilities of a Tech Lead
 
 ## "Kümmerer" Mentality
-- Sorry the german wird explains it best (sich kümmern = take care about sth.)
+- Sorry, but the german word explains it best (sich kümmern = take care about sth.)
 - It's someone who takes care about evertyhing, not only Software Development.
 - Tech Lead takes care about overall-architecture, frontend-design, backends, UX, Client needs, Mood etc.
 
