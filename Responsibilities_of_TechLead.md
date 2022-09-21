@@ -16,7 +16,7 @@
 - discussing & understanding requirements
 - ask the 5 Whys to really understand the customers need - see https://en.wikipedia.org/wiki/Five_whys
 - Very often the customer requests a specific feature instead of describing a problem. Dig for the root cause of the feature!
-- Using the 5-Whys could reveal the root cause!
+- Using the 5-Whys could reveal the root cause! In my personal experience, 3-Whys are often enough.
 
 ## How to architect a system ?
 - https://www.educative.io/path/scalability-system-design
