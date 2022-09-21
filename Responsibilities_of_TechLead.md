@@ -10,7 +10,8 @@
 - Less code is better
 - Does the code bring really value to the customer?
 (In case Not, drop it)
-- "Stand on the shoulders of giants". Meaning, use libraries, code or techniques from big companies such as Google, Facebook etc. instead of implementing all on your own.
+- "Stand on the shoulders of giants" / "Don't reinvent the wheel" 
+   - Meaning, use libraries, code or techniques from big companies such as Google, Facebook etc. instead of implementing all on your own. 
 
 ## How to build a feature?
 - discussing & understanding requirements
