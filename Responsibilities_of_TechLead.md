@@ -14,7 +14,9 @@
 
 ## How to build a feature?
 - discussing & understanding requirements
-- ask the 5 Whys to really understand the customers need
+- ask the 5 Whys to really understand the customers need - see https://en.wikipedia.org/wiki/Five_whys
+- Very often the customer requests a specific feature instead of describing a problem. Dig for the root cause of the feature!
+- Using the 5-Whys could reveal the root cause!
 
 ## How to architect a system ?
 - https://www.educative.io/path/scalability-system-design
