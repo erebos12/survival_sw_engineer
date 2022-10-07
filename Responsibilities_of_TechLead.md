@@ -23,8 +23,7 @@
 - https://www.educative.io/path/scalability-system-design
 
 ## How to implement patterns & paradigmes ?
-- Design Patterns
-- TBC
+- Design Patterns - https://www.tutorialspoint.com/design_pattern/index.htm
 
 ## How to adopt new technologies ?
 - "Hybrid-Implementation" when introducing/implementing new technologies
