@@ -41,3 +41,7 @@
 - Sort & Search algorithms
 - Complexity knowledge - O(n) 
 - Techniques like Sliding Window, Two Pointers etc.
+
+# Links
+
+- "Lessons Learned From My Software Engineering Mentor" - https://medium.com/gitconnected/lessons-learned-from-my-mentor-d10058a462a2
