@@ -14,7 +14,8 @@
    - Meaning, use libraries, code or techniques from big companies such as Google, Facebook etc. instead of implementing all on your own. 
 
 ## How to build a feature?
-- discussing & understanding requirements
+- Focusing on outcomes for real people, not on problems
+- Don't Gather Requirements — Dig for Them !
 - ask the 5 Whys to really understand the customers need - see https://en.wikipedia.org/wiki/Five_whys
 - Very often the customer requests a specific feature instead of describing a problem. Dig for the root cause of the feature!
 - Using the 5-Whys could reveal the root cause! In my personal experience, 3-Whys are often enough.
