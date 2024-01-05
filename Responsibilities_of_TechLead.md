@@ -1,19 +1,26 @@
 # Reponsibilities of a Tech Lead
 
 ## "Kümmerer" Mentality
+
 - Sorry, but the german word explains it best (sich kümmern = take care about sth.)
 - It's someone who takes care about evertyhing, not only Software Development.
 - Tech Lead takes care about overall-architecture, frontend-design, backends, UX, Client needs, Mood etc.
 
+## Avoid punishment
+
+Use punishment as the very last step. Under-Performance is in most cases an indicator of lacking training & mentorship.
+
 ## Knowing when Not to code
+
 - Recall YAGNI
 - Less code is better
 - Does the code bring really value to the customer?
-(In case Not, drop it)
-- "Stand on the shoulders of giants" / "Don't reinvent the wheel" 
-   - Meaning, use libraries, code or techniques from big companies such as Google, Facebook etc. instead of implementing all on your own. 
+  (In case Not, drop it)
+- "Stand on the shoulders of giants" / "Don't reinvent the wheel"
+  - Meaning, use libraries, code or techniques from big companies such as Google, Facebook etc. instead of implementing all on your own.
 
 ## How to build a feature?
+
 - Focusing on outcomes for real people, not on problems
 - Don't Gather Requirements — Dig for Them !
 - ask the 5 Whys to really understand the customers need - see https://en.wikipedia.org/wiki/Five_whys
@@ -21,26 +28,32 @@
 - Using the 5-Whys could reveal the root cause! In my personal experience, 3-Whys are often enough.
 
 ## How to architect a system ?
+
 - https://www.educative.io/path/scalability-system-design
 
 ## How to implement patterns & paradigmes ?
+
 - Design Patterns - https://www.tutorialspoint.com/design_pattern/index.htm
 
 ## How to adopt new technologies ?
+
 - "Hybrid-Implementation" when introducing/implementing new technologies
-  * i.e. introducing a new DB when still using the old DB for a certain amount if time
+  - i.e. introducing a new DB when still using the old DB for a certain amount if time
 
 ## How to tackle technical debt?
+
 - Refactoring is part of your daily life -> Test-Driven-Development (TDD) helps a lot !!!
 - "Hybrid-Implementation" when introducing/implementing archirectual/design changes
 
 ## How to Clean Code ?
+
 - learning Clean Code Development -> https://clean-code-developer.com/
 
 ## How to program ?
+
 - Coding Techniques - https://www.educative.io/courses/grokking-the-coding-interview
 - Sort & Search algorithms
-- Complexity knowledge - O(n) 
+- Complexity knowledge - O(n)
 - Techniques like Sliding Window, Two Pointers etc.
 
 # Links
