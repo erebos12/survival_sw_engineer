@@ -51,10 +51,17 @@ Use punishment as the very last step. Under-Performance is in most cases an indi
 
 ## How to program ?
 
-- Coding Techniques - https://www.educative.io/courses/grokking-the-coding-interview
-- Sort & Search algorithms
 - Complexity knowledge - O(n)
-- Techniques like Sliding Window, Two Pointers etc.
+- Coding Techniques - https://www.educative.io/courses/grokking-the-coding-interview
+  - Sliding window
+  - fast & slow pointers
+  - Data Structures (Trees, Graph, Linked Lists etc.)
+- Sort & Search algorithms
+  - you don't need to know by heart, know the complexity level and pros/cons
+  - try to go for O(1) if possible i.e. HashMap
+- Recursion
+  - Stack-Frame-Copy (https://dev.to/muirujackson/call-stack-recursion-40eh)
+  - Use "Tail Call Optimaization (TCO)" when possible
 
 # Links
 
