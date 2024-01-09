@@ -6,10 +6,6 @@
 - It's someone who takes care about evertyhing, not only Software Development.
 - Tech Lead takes care about overall-architecture, frontend-design, backends, UX, Client needs, Mood etc.
 
-## Avoid punishment
-
-Use punishment as the very last step. Under-Performance is in most cases an indicator of lacking training & mentorship.
-
 ## Knowing when Not to code
 
 - Recall YAGNI
