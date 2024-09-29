@@ -1,4 +1,34 @@
-# Reponsibilities of a Tech Lead
+# Reponsibilities of a Tech Lead / Software Architect
+
+## Zoom in, Zoom out
+- don't get lost in details (in code)
+- Big Picture view
+- but when necessary, go into details
+
+## Domain Expertise
+- understand the domain (use DDD) you're working in
+
+## Understand tradeoffs
+- balancing pro & cons for a decision / technology
+
+## Care about infrastructure
+- all topics around DevOps
+- virtualizing / container technologies
+
+## Strategic Coder
+- ready to use blueprints
+- reusable components / code
+- ready to use local development environment (i.e. IDE configuration)
+- avoiding boilerplate coding
+- providing skeletons for i.e. REST-APIs, Dockefiles
+
+## Caring about non-functional requirements
+- scalability
+- maintainability (modular, clean & reusable code)
+- security
+
+## Cost sensitivity
+- taking care of costs
 
 ## "Kümmerer" Mentality
 
